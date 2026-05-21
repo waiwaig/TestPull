@@ -1,5 +1,0 @@
-LIBRARY	VpFreezeCopyPaste
-
-EXPORTS
-	acrxEntryPoint		PRIVATE
-	acrxGetAppVersion	PRIVATE
