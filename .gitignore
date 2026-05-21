@@ -1,0 +1,65 @@
+# Visual Studio
+.vs/
+*.sln.docstates
+*.user
+*.suo
+*.userosscache
+*.sln.ide/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual C++
+*.obj
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.idb
+*.ipdb
+*.iobj
+*.tlog
+*.log
+*.lastbuildstate
+*.manifest
+*.res
+*.pch
+*.vsdll
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.dll
+*.exe
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+
+# Tooling
+*.user
+*.vcxproj.filters
+*.vcxproj.user
+
+# Windows
+Thumbs.db
+Desktop.ini
